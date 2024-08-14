@@ -1,0 +1,12 @@
+table,tr,td,th{
+  border: 1px solid black;
+  justify-content: center;
+  padding: 10px;
+}
+th{
+  font-size: larger;
+  font-weight: 500;
+}
+p{
+  font-weight:100;
+}
